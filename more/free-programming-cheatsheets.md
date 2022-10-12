@@ -325,6 +325,7 @@
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
+* [R cheat sheet](http://www.rob-mcculloch.org/bs_2020/webpage/learn-R/r_cheat_sheet.pdf) - H. Wagner, Biology UTM (PDF)
 
 
 ### Raspberry Pi
